@@ -1,6 +1,6 @@
 # 发布检查
 
-当前目录仅为本地候选，尚未关联远程仓库。发布前确认：
+公开仓库：https://github.com/1316596702/tlbb-bot 。以下步骤用于后续更新的发布前复查：
 
 1. `python -m unittest discover -s tests -v` 和 `python tools/check_release.py` 通过。
 2. 只将本目录纳入新的 Git 仓库，不复制开发历史、上层目录、运行目录和审计资料。

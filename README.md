@@ -38,6 +38,8 @@
 当前控制中心使用 Windows 进程管理接口；先在 Windows 与独立测试服上开发。Python 3.11+ 为开发目标，本地验证环境和结果见 [验证记录](docs/VALIDATION.md)。
 
 ```powershell
+git clone https://github.com/1316596702/tlbb-bot.git
+cd tlbb-bot
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 .\.venv\Scripts\python.exe tools/init_local.py

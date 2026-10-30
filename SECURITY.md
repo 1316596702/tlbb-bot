@@ -2,6 +2,6 @@
 
 不要在公开 Issue 中提交密码、真实账号、会话数据、数据库转储或可直接攻击在线服务器的细节。
 
-作者私下联系 QQ：**1316596702**，请注明 `tlbb-bot 安全问题`。GitHub 发布后也可启用 Private vulnerability reporting，通过仓库 Security 页提交私密报告。不要在公开 Issue 中贴出凭据或完整攻击细节。
+作者私下联系 QQ：**1316596702**，请注明 `tlbb-bot 安全问题`。仓库已启用 Private vulnerability reporting，可以通过 [Security 私密报告入口](https://github.com/1316596702/tlbb-bot/security/advisories/new) 联系维护者。不要在公开 Issue 中贴出凭据或完整攻击细节。
 
 控制中心默认仅监听本机，当前不提供面向不可信网络的完整访问控制。请勿开放到公网。尚未适配的协议和数据库修改只能在自己的隔离测试环境验证。
