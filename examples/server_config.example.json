@@ -1,0 +1,13 @@
+{
+  "login_host": "127.0.0.1",
+  "login_port": 6500,
+  "game_host": "",
+  "game_port": null,
+  "db_host": "127.0.0.1",
+  "db_port": 3306,
+  "db_user": "",
+  "db_password": "",
+  "enable_database_writes": false,
+  "enable_server_provisioning": false,
+  "supported_login_hosts": []
+}

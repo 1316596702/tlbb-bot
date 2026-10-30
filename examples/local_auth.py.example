@@ -1,0 +1,9 @@
+"""Copy to local_auth.py in the project root and implement for your own server.
+Read credentials from a local secret store or environment; never commit them.
+"""
+def build_hello(account):
+    raise NotImplementedError("Implement the target version's handshake")
+
+
+def build_auth(account, challenge):
+    raise NotImplementedError("Implement real password/session authentication")
